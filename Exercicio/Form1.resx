@@ -57,272 +57,95 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;btn9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btnMenos.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="btnResultado.Text" xml:space="preserve">
-    <value>=</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>332, 494</value>
-  </data>
-  <data name="&gt;&gt;btn2.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;btnMult.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Calculadora</value>
-  </data>
-  <data name="&gt;&gt;btn5.Name" xml:space="preserve">
-    <value>btn5</value>
-  </data>
-  <data name="btn6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="&gt;&gt;btn6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btn5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 162</value>
-  </data>
-  <data name="btn3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;btnDiv.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnDiv.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn0.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="btn0.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 70</value>
-  </data>
-  <data name="btnDiv.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 70</value>
-  </data>
-  <data name="&gt;&gt;btn6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Calculadora</value>
-  </data>
-  <data name="&gt;&gt;btnResultado.Name" xml:space="preserve">
-    <value>btnResultado</value>
-  </data>
-  <data name="btn3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>160, 86</value>
-  </data>
-  <data name="&gt;&gt;btn8.Name" xml:space="preserve">
-    <value>btn8</value>
-  </data>
-  <data name="btn2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="btn3.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="btn5.Text" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="btn7.Text" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>332, 494</value>
-  </data>
-  <data name="&gt;&gt;btn7.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;btn3.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="btnMult.Text" xml:space="preserve">
-    <value>X</value>
-  </data>
-  <data name="btn4.Text" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="btn4.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btn0.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn7.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnMais.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="&gt;&gt;btn8.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn9.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btn6.Text" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="btn8.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="btn6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn9.Text" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="btn4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn0.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;btn4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btn7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnMult.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;btn4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btn5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnMult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 238</value>
-  </data>
-  <data name="&gt;&gt;btn1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn8.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btn1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="saida.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
-  </data>
-  <data name="&gt;&gt;saida.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btnDiv.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="btn9.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn0.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>316, 455</value>
-  </data>
-  <data name="&gt;&gt;btnMenos.Name" xml:space="preserve">
-    <value>btnMenos</value>
-  </data>
-  <data name="&gt;&gt;btnMais.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="btnResultado.Size" type="System.Drawing.Size, System.Drawing">
-    <value>292, 61</value>
-  </data>
-  <data name="btn8.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnMais.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>
   </data>
-  <data name="&gt;&gt;btnMult.Name" xml:space="preserve">
-    <value>btnMult</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btn8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>85, 238</value>
   </data>
-  <data name="btn9.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;btn9.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="btn6.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+  <data name="&gt;&gt;btnResultado.Name" xml:space="preserve">
+    <value>btnResultado</value>
   </data>
-  <data name="&gt;&gt;btn5.ZOrder" xml:space="preserve">
-    <value>12</value>
+  <data name="btn1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 86</value>
   </data>
-  <data name="&gt;&gt;btnResultado.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;btn2.ZOrder" xml:space="preserve">
+    <value>15</value>
   </data>
-  <data name="&gt;&gt;btn1.Name" xml:space="preserve">
-    <value>btn1</value>
+  <data name="&gt;&gt;btn6.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;btn0.Name" xml:space="preserve">
-    <value>btn0</value>
+  <data name="btn4.Text" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="btn2.Text" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;btn6.ZOrder" xml:space="preserve">
+    <value>11</value>
   </data>
-  <data name="btnMenos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="btnMais.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="&gt;&gt;btn2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn1.Text" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnResultado.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btnResultado.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 386</value>
-  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnResultado.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
-  <data name="btn2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
+  <data name="btnMenos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>233, 162</value>
   </data>
-  <data name="btn9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>160, 238</value>
+  <data name="&gt;&gt;btn3.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="btn3.Text" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;btnMenos.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="&gt;&gt;btn1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;btnDiv.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="saida.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="&gt;&gt;btn0.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnResultado.Text" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="btn0.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="saida.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnMais.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 70</value>
+  </data>
+  <data name="btn4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 162</value>
+  </data>
+  <data name="&gt;&gt;btnResultado.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn7.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;btn8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnDiv.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="&gt;&gt;btnMenos.Parent" xml:space="preserve">
     <value>$this</value>
@@ -330,191 +153,368 @@
   <data name="saida.Text" xml:space="preserve">
     <value />
   </data>
-  <data name="btn5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;btn4.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="btnDiv.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 310</value>
-  </data>
-  <data name="saida.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btn3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnMenos.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;btnMult.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btn2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnDiv.Text" xml:space="preserve">
-    <value>/</value>
-  </data>
-  <data name="btnMais.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 70</value>
-  </data>
-  <data name="btn5.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btn4.Name" xml:space="preserve">
-    <value>btn4</value>
-  </data>
-  <data name="btn1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 86</value>
-  </data>
-  <data name="&gt;&gt;btnDiv.Name" xml:space="preserve">
-    <value>btnDiv</value>
-  </data>
-  <data name="&gt;&gt;btn6.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="btn3.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="btn6.Size" type="System.Drawing.Size, System.Drawing">
     <value>69, 70</value>
-  </data>
-  <data name="&gt;&gt;btnMenos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;saida.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnMult.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="btn4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 162</value>
-  </data>
-  <data name="btn6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>160, 162</value>
   </data>
   <data name="btn8.Text" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="saida.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;btnResultado.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnMenos.Text" xml:space="preserve">
-    <value>-</value>
-  </data>
-  <data name="btn2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 86</value>
-  </data>
-  <data name="&gt;&gt;btn9.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;saida.Name" xml:space="preserve">
-    <value>saida</value>
-  </data>
-  <data name="btn7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="btn4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="&gt;&gt;btnMais.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn0.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="btn7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="btn9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="btn8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 238</value>
-  </data>
-  <data name="&gt;&gt;btn7.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btn3.Name" xml:space="preserve">
-    <value>btn3</value>
-  </data>
-  <data name="&gt;&gt;btnMais.Name" xml:space="preserve">
-    <value>btnMais</value>
-  </data>
-  <data name="btn1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 70</value>
-  </data>
-  <data name="saida.Size" type="System.Drawing.Size, System.Drawing">
-    <value>292, 51</value>
-  </data>
-  <data name="&gt;&gt;btn9.Name" xml:space="preserve">
-    <value>btn9</value>
-  </data>
-  <data name="btnMais.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 86</value>
-  </data>
-  <data name="btnDiv.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
-  </data>
-  <data name="btn7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 238</value>
-  </data>
-  <data name="&gt;&gt;btnDiv.ZOrder" xml:space="preserve">
+  <data name="btn3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
-  </data>
-  <data name="&gt;&gt;btn7.Name" xml:space="preserve">
-    <value>btn7</value>
-  </data>
-  <data name="&gt;&gt;btn8.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btnMult.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btn0.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnMenos.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="btn2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Square721 BT, 26.25pt</value>
-  </data>
-  <data name="&gt;&gt;saida.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="btn0.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 310</value>
-  </data>
-  <data name="&gt;&gt;btn6.Name" xml:space="preserve">
-    <value>btn6</value>
-  </data>
-  <data name="&gt;&gt;btn1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btnMenos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>233, 162</value>
-  </data>
-  <data name="btnMais.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
   </data>
   <data name="&gt;&gt;btn2.Name" xml:space="preserve">
     <value>btn2</value>
   </data>
+  <data name="&gt;&gt;btn0.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnMult.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btn9.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btn0.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>85, 162</value>
+  </data>
+  <data name="btn3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
   <data name="&gt;&gt;btnResultado.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn3.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Calculadora</value>
+  </data>
+  <data name="&gt;&gt;saida.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
   <data name="btnMais.Text" xml:space="preserve">
     <value>+</value>
   </data>
+  <data name="btn2.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btnMenos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="&gt;&gt;btn3.Name" xml:space="preserve">
+    <value>btn3</value>
+  </data>
+  <data name="btn2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>85, 86</value>
+  </data>
+  <data name="btn8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="saida.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt, style=Bold</value>
+  </data>
+  <data name="btnDiv.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btn6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 162</value>
+  </data>
+  <data name="btn1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btn1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="&gt;&gt;btnMult.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMais.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnMenos.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btnDiv.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 70</value>
+  </data>
+  <data name="&gt;&gt;btn0.Name" xml:space="preserve">
+    <value>btn0</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>332, 494</value>
+  </data>
+  <data name="btnDiv.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
   <data name="btnMult.Size" type="System.Drawing.Size, System.Drawing">
     <value>67, 70</value>
+  </data>
+  <data name="btnMenos.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;btn4.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn0.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btnMult.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;btnDiv.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnMult.Name" xml:space="preserve">
+    <value>btnMult</value>
+  </data>
+  <data name="&gt;&gt;btn5.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btn7.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnResultado.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="&gt;&gt;btn7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn1.Name" xml:space="preserve">
+    <value>btn1</value>
+  </data>
+  <data name="btnMult.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btn4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="&gt;&gt;btn9.Name" xml:space="preserve">
+    <value>btn9</value>
+  </data>
+  <data name="&gt;&gt;btnMenos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btn9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 238</value>
+  </data>
+  <data name="&gt;&gt;btnMenos.Name" xml:space="preserve">
+    <value>btnMenos</value>
+  </data>
+  <data name="&gt;&gt;btnMais.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="&gt;&gt;btn5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn1.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn5.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btn5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnMais.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btnMais.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 86</value>
+  </data>
+  <data name="saida.Size" type="System.Drawing.Size, System.Drawing">
+    <value>292, 51</value>
+  </data>
+  <data name="&gt;&gt;btnMult.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>316, 455</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="btnResultado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 386</value>
+  </data>
+  <data name="&gt;&gt;btn7.Name" xml:space="preserve">
+    <value>btn7</value>
+  </data>
+  <data name="&gt;&gt;btn4.Name" xml:space="preserve">
+    <value>btn4</value>
+  </data>
+  <data name="btn4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="btnDiv.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 310</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Calculadora</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>332, 494</value>
+  </data>
+  <data name="btn9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="&gt;&gt;btn8.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btn7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btn3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="btn3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 86</value>
+  </data>
+  <data name="btn3.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btn9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="&gt;&gt;btn8.Name" xml:space="preserve">
+    <value>btn8</value>
+  </data>
+  <data name="&gt;&gt;btn2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnMais.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn0.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="btn2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="&gt;&gt;btn9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btn1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn6.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btn9.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnResultado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>292, 61</value>
+  </data>
+  <data name="&gt;&gt;btnMais.Name" xml:space="preserve">
+    <value>btnMais</value>
+  </data>
+  <data name="&gt;&gt;btn9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;saida.Name" xml:space="preserve">
+    <value>saida</value>
+  </data>
+  <data name="btn4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;saida.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saida.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btn0.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 310</value>
+  </data>
+  <data name="&gt;&gt;btn4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnMult.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnMais.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btnMenos.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="btn0.Size" type="System.Drawing.Size, System.Drawing">
+    <value>219, 70</value>
+  </data>
+  <data name="btn2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 70</value>
+  </data>
+  <data name="btn7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 238</value>
+  </data>
+  <data name="btnDiv.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="&gt;&gt;btn1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btn7.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn5.Name" xml:space="preserve">
+    <value>btn5</value>
+  </data>
+  <data name="btn8.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnDiv.Name" xml:space="preserve">
+    <value>btnDiv</value>
+  </data>
+  <data name="&gt;&gt;btn6.Name" xml:space="preserve">
+    <value>btn6</value>
+  </data>
+  <data name="btn8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Square721 BT, 26.25pt</value>
+  </data>
+  <data name="btn6.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnMult.Location" type="System.Drawing.Point, System.Drawing">
+    <value>235, 238</value>
+  </data>
+  <data name="&gt;&gt;btnResultado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
